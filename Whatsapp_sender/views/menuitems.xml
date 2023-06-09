@@ -13,10 +13,6 @@
                       name="Type template"
                       action="action_type_temp"
                       sequence="20"/>
-            <menuitem id="test_wizard"
-                      name="Test wizard"
-                      action="action_send_msg"
-                      sequence="30"/>
         </menuitem>
     </menuitem>
 </odoo>

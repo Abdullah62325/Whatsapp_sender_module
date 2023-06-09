@@ -36,7 +36,6 @@ class SendMsg(models.TransientModel):
 
         url = "https://api.whatsapp.com/send?phone=%s&text=%s" % (self.phone, msg)
 
-        print(url, msg)
         return {
             "type": "ir.actions.act_url",
             "target": 'new',
