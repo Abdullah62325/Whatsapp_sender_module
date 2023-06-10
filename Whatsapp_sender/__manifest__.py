@@ -4,7 +4,7 @@
     'name': 'Whatsapp sender',
     'version': '1.0.0',
     'author': 'Abdullah Saeed',
-    'summary': 'Whatsapp sender, is a module for send whatsapp message in odoo.',
+    'summary': 'module for send whatsapp message in odoo.',
     'description': """
     Whatsapp sender, is a module for send whatsapp message in odoo, and you can make a lot of templates or you can custom message before sending it.
     """,
